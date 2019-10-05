@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ebe-website/static/css/main.b100e6da.chunk.css",
+    "main.js": "/ebe-website/static/js/main.bcb4dd84.chunk.js",
+    "main.js.map": "/ebe-website/static/js/main.bcb4dd84.chunk.js.map",
+    "runtime-main.js": "/ebe-website/static/js/runtime-main.11c32b3e.js",
+    "runtime-main.js.map": "/ebe-website/static/js/runtime-main.11c32b3e.js.map",
+    "static/js/2.f4da4c91.chunk.js": "/ebe-website/static/js/2.f4da4c91.chunk.js",
+    "static/js/2.f4da4c91.chunk.js.map": "/ebe-website/static/js/2.f4da4c91.chunk.js.map",
+    "index.html": "/ebe-website/index.html",
+    "precache-manifest.546d4b0803162b0fb9ec9807b96b9809.js": "/ebe-website/precache-manifest.546d4b0803162b0fb9ec9807b96b9809.js",
+    "service-worker.js": "/ebe-website/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/ebe-website/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/ebe-website/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11c32b3e.js",
+    "static/js/2.f4da4c91.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.bcb4dd84.chunk.js"
+  ]
+}
